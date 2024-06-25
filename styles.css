@@ -22,7 +22,6 @@ body {
     background-repeat: no-repeat;
     height: 100vh;
     width: 100vw;
-    overflow: hidden;
 }
 
 .graph-container {
